@@ -1,0 +1,5 @@
+<resources>
+    <string name="appname">Digital Notice Board</string>
+    <string name="clock_default">12:00 PM</string>
+    <string name="main_policy_default">Main Policy Content</string>
+</resources>
